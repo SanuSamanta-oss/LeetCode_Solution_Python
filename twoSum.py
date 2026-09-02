@@ -8,8 +8,8 @@ class Solution:
                     output.append(i)
                     return output
 
-nums = [2, 7, 21, 4]
-target = 9
-solution = Solution()
-print(solution.twoSum(nums,target))
+# nums = [2, 7, 21, 4]
+# target = 9
+# solution = Solution()
+# print(solution.twoSum(nums,target))
 
